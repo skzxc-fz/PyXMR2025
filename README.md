@@ -2,7 +2,7 @@
 ❤️ Love Monero!  
 
 **Contact:**  
-- **Matrix:** `@PyXMR2025:matrix.org`  
+- **Matrix:** `@pyxmr2025:mozilla.org`  
 - **Email:** `pyxmr2025@openenet.cn`  
 - **GPG Key:** `724DCCDE543CB6EB1740B11F327E8C5E1416CEF0`  
 
