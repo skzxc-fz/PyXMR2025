@@ -27,7 +27,6 @@ A tech-enthusiast from China, focusing on in-depth analysis & hands-on notes of 
 <div align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=PyXMR2025&show_icons=true&theme=radical" alt="Jackie's GitHub stats" />
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PyXMR2025&layout=compact&theme=react&langs_count=6" alt="Jackie's Top Languages" />
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com?user=PyXMR2025&theme=radical" alt="Jackie's GitHub Streak" />
 </div>
 
 ---
